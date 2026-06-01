@@ -1,5 +1,4 @@
 Resumo sobre JavaScript, parte: Mateus Albuquerque Leite Aires
-prazo: 02/06/2026
 *Vantagens e desvantagend do JavaScript:
 
 Vantagens:
@@ -108,7 +107,7 @@ A comunidade costuma celebrar o JavaScript Day em eventos, palestras e encontros
 A comunidade JavaScript adotou informalmente o "JS Octocat" e outras representações de polvo em eventos e materiais promocionais, embora não exista um mascote oficial reconhecido pela linguagem.
 
 
-Data de entrega: 01/06/2026
+
 
 fontes:
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
